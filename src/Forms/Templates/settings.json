@@ -1,0 +1,19 @@
+{
+    "routePrefix": "integrations.meilisearch.settings",
+    "sections": [
+        {
+            "columns": 1,
+            "fields": [
+                {
+                    "label": "Enabled",
+                    "name": "enabled",
+                    "value": false,
+                    "meta": {
+                        "type": "input",
+                        "content": "checkbox"
+                    }
+                }
+            ]
+        }
+    ]
+}
