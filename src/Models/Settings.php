@@ -10,7 +10,7 @@ class Settings extends Model
 {
     use HasFactory, Rememberable;
 
-    protected $table = 'meilisearch_settings';
+    protected $table = 'typesense_settings';
 
     protected $guarded = ['id'];
 

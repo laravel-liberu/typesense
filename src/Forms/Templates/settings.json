@@ -1,5 +1,5 @@
 {
-    "routePrefix": "integrations.meilisearch.settings",
+    "routePrefix": "integrations.typesense.settings",
     "sections": [
         {
             "columns": 1,
