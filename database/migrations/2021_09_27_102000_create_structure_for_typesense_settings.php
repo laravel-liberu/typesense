@@ -2,7 +2,7 @@
 
 use LaravelEnso\Migrator\Database\Migration;
 
-class CreateStructureForTypesenseSettings extends Migration
+return new class extends Migration
 {
     protected ?string $parentMenu = 'Typesense';
 
@@ -14,4 +14,4 @@ class CreateStructureForTypesenseSettings extends Migration
         ['name' => 'integrations.typesense.settings.index', 'description' => 'Show settings for Typesense', 'is_default' => false],
         ['name' => 'integrations.typesense.settings.update', 'description' => 'Update Typesense settings', 'is_default' => false],
     ];
-}
+};
