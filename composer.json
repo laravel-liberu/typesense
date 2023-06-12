@@ -43,5 +43,8 @@
                 "LaravelEnso\\Typesense\\AppServiceProvider"
             ]
         }
+    },
+    "require-dev": {
+        "rector/rector": "^0.17.0"
     }
 }
