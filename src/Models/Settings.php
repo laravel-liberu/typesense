@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Typesense\Models;
+namespace LaravelLiberu\Typesense\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use LaravelEnso\Rememberable\Traits\Rememberable;
+use LaravelLiberu\Rememberable\Traits\Rememberable;
 
 class Settings extends Model
 {

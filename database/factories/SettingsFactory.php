@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Typesense\Database\Factories;
+namespace LaravelLiberu\Typesense\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use LaravelEnso\Typesense\Models\Settings as Model;
+use LaravelLiberu\Typesense\Models\Settings as Model;
 
 class SettingsFactory extends Factory
 {

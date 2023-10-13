@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Typesense\Forms\Builders;
+namespace LaravelLiberu\Typesense\Forms\Builders;
 
-use LaravelEnso\Forms\Services\Form;
-use LaravelEnso\Typesense\Models\Settings as Model;
+use LaravelLiberu\Forms\Services\Form;
+use LaravelLiberu\Typesense\Models\Settings as Model;
 
 class Settings
 {

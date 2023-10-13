@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\Typesense\Http\Controllers\Settings\Index;
-use LaravelEnso\Typesense\Http\Controllers\Settings\Update;
+use LaravelLiberu\Typesense\Http\Controllers\Settings\Index;
+use LaravelLiberu\Typesense\Http\Controllers\Settings\Update;
 
 Route::middleware(['api', 'auth', 'core'])
     ->prefix('api/integrations/typesense/settings')

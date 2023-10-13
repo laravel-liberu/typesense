@@ -33,14 +33,14 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\Typesense\\": "src/",
-            "LaravelEnso\\Typesense\\Database\\Factories\\": "database/factories/"
+            "LaravelLiberu\\Typesense\\": "src/",
+            "LaravelLiberu\\Typesense\\Database\\Factories\\": "database/factories/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\Typesense\\AppServiceProvider"
+                "LaravelLiberu\\Typesense\\AppServiceProvider"
             ]
         }
     },

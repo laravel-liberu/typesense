@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Typesense\Http\Controllers\Settings;
+namespace LaravelLiberu\Typesense\Http\Controllers\Settings;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Typesense\Forms\Builders\Settings as Form;
-use LaravelEnso\Typesense\Models\Settings;
+use LaravelLiberu\Typesense\Forms\Builders\Settings as Form;
+use LaravelLiberu\Typesense\Models\Settings;
 
 class Index extends Controller
 {

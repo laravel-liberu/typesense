@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Typesense\Http\Controllers\Settings;
+namespace LaravelLiberu\Typesense\Http\Controllers\Settings;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Typesense\Http\Requests\ValidateSettings;
-use LaravelEnso\Typesense\Models\Settings;
+use LaravelLiberu\Typesense\Http\Requests\ValidateSettings;
+use LaravelLiberu\Typesense\Models\Settings;
 
 class Update extends Controller
 {

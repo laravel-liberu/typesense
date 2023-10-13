@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Typesense;
+namespace LaravelLiberu\Typesense;
 
 use Illuminate\Support\ServiceProvider;
 
