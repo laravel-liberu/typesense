@@ -1,2 +1,2 @@
-###  laravel-enso - typesense
+###  laravel-liberu - typesense
 Coming soon
